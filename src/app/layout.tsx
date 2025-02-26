@@ -14,8 +14,8 @@ import ogImage from '../../public/og.jpg'
 
 export const metadata: Metadata = {
 	title: {
-		default: 'Milinh',
-		template: 'Mailinh | %s'
+		default: 'Mai Linh',
+		template: 'Mai Linh | %s'
 	},
 	description: 'Mai Linh Corporation',
 	metadataBase: new URL('https://mailinh.fimi.tech'),
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 		title: 'Mai Linh Corporation',
 		description: 'Mở thẻ không cần bảng lương',
 		url: 'https://mailinh.fimi.tech',
-		siteName: 'FIMI',
+		siteName: 'MaiLinh',
 		images: [
 			{
 				url: ogImage.src,
